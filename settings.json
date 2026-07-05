@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "tjlb7.aternos.me:19066",
-    "port": 19066,
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
